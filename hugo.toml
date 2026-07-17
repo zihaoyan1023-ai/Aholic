@@ -1,5 +1,6 @@
 ## -----------------------------------------------
 ## Basic Configuration
+title = "你的摄影与Cosplay作品集"
 ## -----------------------------------------------
 
 theme = "hugo-story"
@@ -34,3 +35,9 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 
 [Params.social]
+# 激活数据驱动，让 Hugo 去读取你修改过的 data 文件夹
+[Params.features]
+# 这里是主题用来控制主页显示的核心开关，直接全部开启
+intro = true
+gallery = true
+contact = true
