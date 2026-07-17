@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "个人简介"
+content: |
+  你好，欢迎来到 Aholic的世界！这里是我堆放摄影作品和 Cosplay 经历的小角落。喜欢按下快门的感觉，也热爱用镜头记录每一个好看的灵魂。不定期更新旅拍照片以及cosplay照片，如果你也喜欢二次元、喜欢摄影，旅游，欢迎经常来逛逛或者找我扩列呀！    QQ：1477501485  微信：13586978234,,ᗜ - ᗜ,,
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight01.jpg"

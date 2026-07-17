@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Aholic的简介"
+subtitle: |
+  欢迎来到我的主页，这里记录我的摄影作品和cosplay经历。
+content : |
+  专注于 Cosplay还原角色、外景摄影以及摄影后期。
+button:
+  label : "点击查看作品"
+  link : "#first"
+image : "images/banner.jpg"
+
