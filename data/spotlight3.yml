@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "旅途与生活"
+title : "Spotlight"
 content: |
- 镜头除了对准二次元，也用来记录世界的美好。这里是我在不同城市和国家、不同季节的旅途中的风景与生活碎片。喜欢看未曾见过的风景，也喜欢用光影定格旅途中的惊喜。世界很大，生活很长，还有很多地方值得用镜头去走遍、去记录。“行者常至，为者长成”是我的信条，希望大家可以在旅行的过程中追寻真正的自我。
+  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
 button: 
   label: "Learn More"
   link: "#"

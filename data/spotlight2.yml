@@ -1,8 +1,8 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Cosplay & Photography"
+title : "Spotlight"
 content: |
-  漫展场照、精修正片、日常出片全记录。不管是作为摄影师定格别人的高光瞬间，还是自己作为 Coser 还原喜爱的角色，光影与二次元都是我生活中不可或缺的快乐源泉。每一次快门、每一套成片，都是对热爱的最好证明。番剧也看，二游也玩，欢迎同好一起交流呀！
+  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
 button: 
   label: "Learn More"
   link: "#"
