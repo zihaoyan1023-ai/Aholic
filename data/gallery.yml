@@ -1,7 +1,7 @@
-title: "Gallery"
+title: "Gallery画廊"
 style: "style2 medium lightbox onscroll-fade-in"
 content: |
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+  这是一个 <strong>图库</strong> 元素。你可以自定义它的 <span class="demo-controls">样式 (style) 和 尺寸 (size)</span>，也可以为它分配可选的 <code>页面加载 (onload)</code> 或 <code>页面滚动 (onscroll)</code> 过渡修饰符 (<a href="#reference-gallery">详情</a>)。快门按下的那一刻，时间和光影就被赋予了意义。这里记录了我对二次元的热爱、旅途中的风景，以及那些不愿遗忘的生活瞬间，每一张照片都是一个精彩的故事。
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
